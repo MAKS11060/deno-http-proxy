@@ -1,0 +1,6 @@
+{
+  "version": "2",
+  "remote": {
+    "https://esm.sh/v102/es5-ext@0.10.62/deno/global.js": "17f5318602f1810be13fba7eb0d5fc2d8ac3dd5117f1ff13f8377eab2e2a4784"
+  }
+}
